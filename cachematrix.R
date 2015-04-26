@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## To whom may concern:
+## The code is commented on each line. It can do what is required by the Programming Assignment 2.
+## You can test its correct behavior with the test described in: https://class.coursera.org/rprog-013/forum/thread?thread_id=127
 
 ## Write a short comment describing this function
 
